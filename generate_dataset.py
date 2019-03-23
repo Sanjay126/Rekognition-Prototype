@@ -15,7 +15,7 @@ ap.add_argument("-o", "--output", required=True,
 args = vars(ap.parse_args())
 
 
-MAX_RESULTS = 10
+MAX_RESULTS = 15
 GROUP_SIZE = 1
 URLsearch="https://www.google.com/search"
 
