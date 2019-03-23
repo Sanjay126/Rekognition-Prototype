@@ -1,0 +1,7 @@
+numpy
+Flask
+face_recognition
+dlib
+imutils
+opencv-python
+pytube
