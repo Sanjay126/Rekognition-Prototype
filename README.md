@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 
 For testing on already trained model (trained for wolf of the wall street)
 
-$ python check_video.py -encodings wolf_of_wall_street.pickle -url "https://www.youtube.com/watch?v=x-51mt2tIVw"
+$ python check_video.py --encodings wolf_of_wall_street.pickle --url "https://www.youtube.com/watch?v=x-51mt2tIVw"
 
 (this might take a few minutes depending on the length of clip)
 
